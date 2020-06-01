@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">SoulMates</string>
+    <string name="clear_me">clear</string>
+    <string name="find_match">find match</string>
+</resources>
